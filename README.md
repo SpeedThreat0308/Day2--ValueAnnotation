@@ -1,1 +1,1 @@
-# Day3-GET-POST-API
+# Day2-GET-POST-API
